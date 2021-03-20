@@ -7,7 +7,7 @@ Flask-RESTful==0.3.7
 flask-swagger==0.2.14
 importlib-metadata==0.20
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 marshmallow==3.0.1
 more-itertools==7.2.0
